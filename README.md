@@ -15,7 +15,7 @@ This project is designed to fetch data from an API endpoint, process and transfo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/cplaza0997/population.git
    ```
 
 2. **Install dependencies**
